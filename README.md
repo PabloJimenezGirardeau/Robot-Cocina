@@ -283,17 +283,7 @@ robot_cocina/
 | **AsyncIO** | Programación asíncrona |
 | **CSS Variables** | Temas claro/oscuro |
 
----
 
-## 🔮 Futuras Mejoras
-
-- [ ] Lista de la compra automática
-- [ ] Planificador semanal de menús
-- [ ] Filtro por alérgenos
-- [ ] Búsqueda por ingredientes disponibles
-- [ ] Importar/exportar recetas (JSON)
-- [ ] Modo presentación para tablet
-- [ ] Coste estimado por receta
 
 ---
 
