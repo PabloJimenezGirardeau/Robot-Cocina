@@ -283,8 +283,3 @@ robot_cocina/
 | **AsyncIO** | Programación asíncrona |
 | **CSS Variables** | Temas claro/oscuro |
 
-
-
----
-
-*Última actualización: Diciembre 2024*
